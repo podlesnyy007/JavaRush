@@ -10,7 +10,7 @@
 •	Программа должна выводить на экран значение переменной lastDigit.
 */
 
-package com.javarush.tasks.pro.tasks02.task03;
+package com.javarush.task.pro.task02.task0203;
 
 public class Solution 
 {
