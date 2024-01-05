@@ -7,7 +7,7 @@
 •	Выведенный текст должен соответствовать заданию.
 */
 
-package com.javarush.tasks.tasks01.task06;
+package com.javarush.task.task01.task0115;
 
 public class Solution 
 {
