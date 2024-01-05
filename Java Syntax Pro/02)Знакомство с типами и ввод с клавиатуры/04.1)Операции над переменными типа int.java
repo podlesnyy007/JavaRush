@@ -9,7 +9,7 @@
 •	Программа должна выводить на экран значение переменной meters.
 */
 
-package com.javarush.tasks.pro.tasks02.task02;
+package com.javarush.task.pro.task02.task0202;
 
 public class Solution 
 {
