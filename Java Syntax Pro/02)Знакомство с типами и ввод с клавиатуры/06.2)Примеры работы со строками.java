@@ -7,7 +7,7 @@
 •	Программа должна выводить на экран значение переменной fullness.
 */
 
-package com.javarush.tasks.pro.tasks02.task08;
+package com.javarush.task.pro.task02.task0208;
 
 public class Solution 
 {
