@@ -20,7 +20,7 @@
 •	Все три строки нужно вывести в правильном порядке: третья, вторая, первая.
 */
 
-package com.javarush.tasks.pro.tasks02.task14;
+package com.javarush.task.pro.task02.task0214;
 
 import java.util.Scanner;
 
