@@ -7,7 +7,7 @@
 •	Программа должна вывести на экран три числа, каждое - с новой строки.
 */
 
-package com.javarush.tasks.pro.tasks02.task11;
+package com.javarush.task.pro.task02.task0211;
 
 public class Solution 
 {
