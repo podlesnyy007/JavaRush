@@ -8,7 +8,7 @@
 •	Выведенный год должен соответствовать заданию.
 */
 
-package com.javarush.tasks.tasks01.task05;
+package com.javarush.task.task01.task0103;
 
 public class Solution 
 {
