@@ -6,7 +6,7 @@
 •	Программа должна выводить на экран переменную six со значением 9.
 */
 
-package com.javarush.tasks.pro.tasks02.task04;
+package com.javarush.task.pro.task02.task0204;
 
 public class Solution 
 {
