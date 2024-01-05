@@ -7,7 +7,7 @@
 •	Программа должна выводить на экран переменную digits.
 */
 
-package com.javarush.tasks.pro.tasks02.task09;
+package com.javarush.task.pro.task02.task0209;
 
 public class Solution 
 {
