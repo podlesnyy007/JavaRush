@@ -14,7 +14,7 @@
 •	Программа должна выводить на экран среднее арифметическое считанных чисел.
 */
 
-package com.javarush.tasks.pro.tasks02.task15;
+package com.javarush.task.pro.task02.task0215;
 
 import java.util.Scanner;
 
