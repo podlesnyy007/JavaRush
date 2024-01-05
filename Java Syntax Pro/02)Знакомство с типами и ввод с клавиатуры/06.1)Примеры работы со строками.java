@@ -7,7 +7,7 @@
 •	Программа должна выводить на экран значение переменной tagline.
 */
 
-package com.javarush.tasks.pro.tasks02.task07;
+package com.javarush.task.pro.task02.task0207;
 
 public class Solution 
 {
