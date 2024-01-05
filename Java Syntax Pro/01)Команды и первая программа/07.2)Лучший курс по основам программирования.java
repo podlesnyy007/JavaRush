@@ -9,7 +9,7 @@
 •	Нельзя изменять (можно закомментировать) или добавлять команды, отвечающие за вывод.
 */
 
-package com.javarush.tasks.tasks01.task08;
+package com.javarush.task.task01.task0108;
 
 public class Solution 
 {
