@@ -8,7 +8,7 @@
 •	Нужно раскомментировать одну строку и не менять остальные.
 */
 
-package com.javarush.tasks.tasks01.task07;
+package com.javarush.task.task01.task0107;
 
 public class Solution 
 {
