@@ -9,7 +9,7 @@ name типа String, age типа int и city типа String.
 •	Должны быть объявлены 3 переменные.
 */
 
-package com.javarush.tasks.tasks01.task03;
+package com.javarush.task.task01.task0105;
 
 public class Solution 
 {
