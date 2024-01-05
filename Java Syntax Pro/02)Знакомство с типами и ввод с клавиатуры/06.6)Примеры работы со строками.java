@@ -7,7 +7,7 @@
 •	Вывод программы должен содержать четыре строки.
 */
 
-package com.javarush.tasks.pro.tasks02.task12;
+package com.javarush.task.pro.task02.task0213;
 
 public class Solution 
 {
