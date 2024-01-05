@@ -8,7 +8,7 @@
 •	Программа должна выводить на экран переменную hugeAmount.
 */
 
-package com.javarush.tasks.pro.tasks02.task10;
+package com.javarush.task.pro.task02.task0210;
 
 public class Solution 
 {
