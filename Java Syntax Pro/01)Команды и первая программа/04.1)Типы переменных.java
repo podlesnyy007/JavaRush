@@ -9,7 +9,7 @@
 •	Переменные a и b должны иметь разные значения.
 */
 
-package com.javarush.tasks.tasks01.task04;
+package com.javarush.task.task01.task0109;
 
 public class Solution 
 {
