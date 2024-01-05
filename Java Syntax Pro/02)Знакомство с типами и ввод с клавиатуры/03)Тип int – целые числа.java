@@ -9,7 +9,7 @@
 •	Все переменные должны иметь разные значения.
 */
 
-package com.javarush.tasks.pro.tasks02.task01;
+package com.javarush.task.pro.task02.task0201;
 
 public class Solution 
 {
