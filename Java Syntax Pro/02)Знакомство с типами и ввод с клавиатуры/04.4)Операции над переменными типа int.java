@@ -6,7 +6,7 @@
 •	Программа должна выводить на экран переменную toothCounter со значением 23.
 */
 
-package com.javarush.tasks.pro.tasks02.task05;
+package com.javarush.task.pro.task02.task0205;
 
 public class Solution 
 {
