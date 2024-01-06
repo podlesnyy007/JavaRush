@@ -27,11 +27,11 @@ public class Solution
         
         if (a == b && b == c)
             System.out.println(a + " " + b + " " + c);
-        else if (a == b && a != c)
+        else if (a == b)
             System.out.println(a + " " + b);
-        else if (b == c && b != a)
+        else if (b == c)
             System.out.println(b + " " + c);
-        else if (a == c && a != b)
+        else if (a == c)
             System.out.println(a + " " + c);
     }
 }
