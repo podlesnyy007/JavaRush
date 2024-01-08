@@ -13,15 +13,20 @@ import java.util.Scanner;
 
 public class Solution {
     public static void main(String[] args) {
-        int sum = 0;
-        
         Scanner console = new Scanner(System.in);
-        
-        while (console.hasNextInt()) {
-            int num = console.nextInt();
-            sum += num;
+
+        int sum = 0;
+        boolean isExit = false;
+
+        while (!isExit) {
+            if (console.hasNextInt()) {
+                int number = console.nextInt();
+                sum += number;
+            }
+            else if (console.nextLine().equals("ENTER")) {
+                isExit = true;
+            }
         }
-        
         System.out.println(sum);
     }
 }
