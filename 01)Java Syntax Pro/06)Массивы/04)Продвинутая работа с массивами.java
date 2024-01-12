@@ -16,6 +16,10 @@ package com.javarush.task.pro.task05.task0508;
 
 import java.util.Scanner;
 
+/* 
+Удаляем одинаковые строки
+*/
+
 public class Solution {
     public static String[] strings;
 
