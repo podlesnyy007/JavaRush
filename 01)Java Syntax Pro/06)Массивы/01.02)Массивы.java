@@ -10,6 +10,10 @@
 
 package com.javarush.task.pro.task05.task0502;
 
+/* 
+Четные и нечетные ячейки массива
+*/
+
 public class Solution {
     public static final String ODD = "Нечётный";
     public static final String EVEN = "Чётный";
