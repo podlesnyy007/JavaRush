@@ -13,6 +13,10 @@
 
 package com.javarush.task.pro.task05.task0520;
 
+/* 
+Переобуваемся на лету
+*/
+
 public class Solution {
     public static int result = 105;
 
